@@ -1,0 +1,34 @@
+{
+  "name": "create-fitbit-app",
+  "version": "1.0.0",
+  "description": "Create Fitbit SDK apps with one command.",
+  "license": "MIT",
+  "author": "Fitbit, Inc.",
+  "repository": "github:Fitbit/create-fitbit-app",
+  "bugs": {
+    "url": "https://github.com/Fitbit/create-fitbit-app/issues"
+  },
+  "homepage": "https://github.com/Fitbit/create-fitbit-app#readme",
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "index.js",
+    "createFitbitApp.js"
+  ],
+  "bin": {
+    "create-fitbit-app": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0",
+    "cross-spawn": "^4.0.0",
+    "envinfo": "5.10.0",
+    "fs-extra": "^5.0.0",
+    "hyperquest": "^2.1.2",
+    "semver": "^5.0.3",
+    "tar-pack": "^3.4.0",
+    "tmp": "0.0.33",
+    "validate-npm-package-name": "^3.0.0"
+  }
+}
