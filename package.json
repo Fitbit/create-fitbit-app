@@ -1,6 +1,6 @@
 {
   "name": "create-fitbit-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create Fitbit SDK apps with one command.",
   "license": "MIT",
   "author": "Fitbit, Inc.",
