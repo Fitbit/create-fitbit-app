@@ -7,7 +7,7 @@ Creates a basic Fitbit OS app or clockface
 
 ### Usage
 
-`npx create-fitbit-app <project-name>`
+` <project-name>`
 
 #### Options
 
